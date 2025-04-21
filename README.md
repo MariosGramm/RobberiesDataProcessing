@@ -44,7 +44,7 @@ Technologies Used
 -Power BI (Visualization & Reporting)
 
 
-
+--
 
 Αυτό το project παρουσιάζει ένα πλήρες cloud-based data pipeline και σύστημα αναφορών χρησιμοποιώντας το Microsoft Azure και το Power BI. Τα δεδομένα που χρησιμοποιήθηκαν αφορούν στατιστικά για ληστείες, και προέρχονται απευθείας από τον επίσημο ιστότοπο της Eurostat.
 
